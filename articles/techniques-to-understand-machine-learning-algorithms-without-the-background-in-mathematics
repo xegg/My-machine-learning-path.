@@ -1,0 +1,34 @@
+1) Create Lists of Machine Learning Algorithms
+Ideas of algorithms to try on new and different problem types (time series, rating systems, etc.)
+Algorithms that you can investigate to learn more about how to apply.
+Get a handle on algorithm types by category (trees, kernels, etc.).
+Avoid the problem of fixating on a favorite algorithm.
+
+
+2) Research Machine Learning Algorithms
+Authoritative sources like textbooks, lecture notes, slide and overview papers.
+Seminal sources like the papers and articles in which the algorithm was first described.
+Leading-edge sources that describe state-of-the-art extensions and experiments on the algorithm.
+Heuristic sources like those that come out of machine learning competitions, posts on Q&A websites and conference papers.
+Implementation sources such as open source code for tools and libraries, blog posts and technical reports.
+
+3) Create Your Own Algorithm Descriptions
+What are the standard abbreviations used for the algorithm?
+What is the objective or goal for the algorithm?
+What is the pseudo-code or flowchart description of the algorithm?
+What are the heuristics or rules of thumb for using the algorithm?
+What are useful resources for learning more about the algorithm?
+
+4) Investigate Algorithm Behavior
+Select an algorithm that you would like to know more about (e.g. random forests).
+Identify a question about that algorithm you would like answered (e.g. the effect of the number of trees).
+Design an experiment to find an answer to that question (e.g. try different numbers of trees on a few binary classification problems and chart the relationship with classification accuracy).
+Execute the experiment and write-up your results so that you can make use of them in the future.
+Repeat the process.
+
+5) Implement Machine Learning Algorithms
+Select a programming language, one that you are most familiar with is probably best.
+Select an algorithm to implement, start with something easy (see below for a list).
+Select a problem to test your implementation on as you develop, 2D data is good for visualizing (even in Excel).
+Research the algorithm and leverage many and diverse sources of information (e.g. read tutorials, papers, other implementations, and so on).
+Unit test the algorithm to confirm your understanding and validate the implementation.
