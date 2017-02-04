@@ -1,2 +1,4 @@
 other/*
 .ipynb*
+MNIST_data
+logs
