@@ -15,3 +15,12 @@ Wed Feb 15 20:26:54 CST 2017:
 
 今天晚上就把那个入门的课程完成吧
 
+feature selection
+Here a few ideas for selecting parameters:
+
+Grid search - build models using all possible combinations of hyperparameters, and see which performs best. In sklearn, GridSearchCV provides a handy way to do this.
+Randomized search - if your model accepts many parameters, then it may be impractical to try all possible combinations of model hyperparameters, because it would take forever. Trying a few random sets of parameters can make your model 'good enough', or at least let you know roughly what parameter values result in better performance.
+Find historic instances of models fit to a similar dataset, and see what parameter values were used there. In the very least these values can be useful initial guesses for a grid or randomized search.
+Datasets with many features can take a while to fit a model to, so reducing the number of features might be a good idea if you want to perform a comprehensive parameter optimization. parameter optimization by reducing the number of features.
+
+Marco mentioned one family of these - subset selection - where only the parameters that are useful in making predictions are included in the model. Other methods to lower dimensionality are principal component analysis and linear discriminant analysis.

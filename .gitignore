@@ -2,3 +2,5 @@ other/*
 .ipynb*
 MNIST_data
 logs
+*.pyc
+Data
