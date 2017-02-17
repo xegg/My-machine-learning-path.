@@ -24,3 +24,7 @@ Find historic instances of models fit to a similar dataset, and see what paramet
 Datasets with many features can take a while to fit a model to, so reducing the number of features might be a good idea if you want to perform a comprehensive parameter optimization. parameter optimization by reducing the number of features.
 
 Marco mentioned one family of these - subset selection - where only the parameters that are useful in making predictions are included in the model. Other methods to lower dimensionality are principal component analysis and linear discriminant analysis.
+Fri Feb 17 23:10:16 CST 2017:
+今天学习了线性代数的xxxinput out模型和线性代数在图形学中的应用, 可能因为嗓子哑了, 昨天晚上并没有学习什么知识, 并且现在的精神还不错,
+争取明天调整过来吧. 早一点睡觉
+
