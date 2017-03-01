@@ -4,3 +4,5 @@ MNIST_data
 logs
 *.pyc
 Data
+input
+Untitled.ipynb
