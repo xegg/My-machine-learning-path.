@@ -1,0 +1,9 @@
+1)Replace missing values with mean,mode,median.
+
+2)If data is categorical or text one can replace missing values by most frequent observation.
+
+3)EM algorithm is also used for these purpose.
+
+pandas working with missing value
+http://pandas.pydata.org/pandas-docs/stable/missing_data.html
+https://en.wikipedia.org/wiki/Missing_data
