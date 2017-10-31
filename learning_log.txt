@@ -1,3 +1,8 @@
 Day to day reflections as I work my way through the curriculum.
+Tue 10/31/2017: 
+    How to ask good question.
+    Bootstrap method
+    Review q-value, type 1 error & type 2 error and so on.
+    Read the interview question and found most of that I can't understand.
 
 Mon 10/30/2017: Explore the github and set an simple learning plan.
