@@ -1,4 +1,10 @@
 Day to day reflections as I work my way through the curriculum.
+
+Fri 11/03/2017:
+    monitor algorithms
+    Review ICA, PCA...
+
+
 Tue 10/31/2017: 
     How to ask good question.
     Bootstrap method
