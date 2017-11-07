@@ -1,5 +1,8 @@
 Day to day reflections as I work my way through the curriculum.
 
+Tue 11/07/2017:
+    Finish fast.ai lesson 2, review integral.
+
 Fri 11/03/2017:
     monitor algorithms
     Review ICA, PCA...
