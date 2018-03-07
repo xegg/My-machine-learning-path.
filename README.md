@@ -57,3 +57,70 @@
 - knn (k-nearest neighbor). Simple and effective instance-based method.
 - Naive Bayes. Simple and robust use of Bayes theorem on data.
 - CART (classification and regression trees) another tree-based method.
+
+News:
+Big company news
+New research
+Activity
+Job 
+
+* AI weekly
+* Datascience weekly
+* Some machine learning web site
+* 专业的技术论文
+
+Commutive:
+QQ
+Tieba
+Quora and so on
+
+Job:
+* Learn where to search job in english and chinese version
+
+Activity:
+Hackthon
+ShareKnowledge
+Competition
+
+订阅， 无法订阅的每月看一次或者每周看一次
+source:
+豆瓣
+活动行，活动家等活动网站
+专业的门户网站， 量子位，机器之心等
+贴吧， qq等
+学习海外活动创办经验， 自己创办活动.
+内部渠道，私人的群等
+English Version:
+Twitter, Facebook, Google group,
+Meetup and so on
+
+
+Requrement:
+
+*. 编程基础扎实，熟练使用至少一种常用的编程语言，包括但不限于：C/C++、Python、Scala、Go、Java
+*. 计算机或数学相关专业毕业，有扎实的数据结构和算法基础，或者有较好的数学功底
+
+*. 有学习热情，关注业界前沿技术，洞悉人工智能国际会议研究动态，不断提升自己在机器学习、运筹优化、机制设计、数理统计等方向的能力
+*. 较强的逻辑思维能力以及算法实现能力
+
+*. 具有深度学习、Q-learning、DQN等相关经验者优先
+*. 在深度学习、统计机器学习、计算机视觉、最优化方法等方面有较深入的研究
+*. 在机器学习或数据挖掘方向有较强的积累，熟悉经典的算法并有实践经验，包括LR、GBDT、XGBoost、Reinforcement Learning、Deep Learning
+3. 对常用的机器学习/深度学习算法有深入理解，例如：LR/GMM/SVM/CRF/MaxEnt/HMM/NN 等；
+2、对机器学习的一般模型如分类、聚类、关联分析、预测等模型熟悉（LR，CART，SVM，NN，Bayesian，PCA，LDA等），理解一些常用的特征选择和矩阵分解的算法；
+3、熟悉深度神经网络和常用的模型,如RBM、CNN、DBN、Sparsecoding、RNN等，对常用的开源实现,如Caffe、Theano或ConvNet等有实践经验者优先考虑；
+2.能够详细描述 CNN、RNN, LSTM, GRU, Attention模型的算法
+3.擅长常用机器学习框架之一，如Tensorflow, Theano, Torch等
+4.擅长科学计算编程语言之一，如Java，Python，R，C++等
+5.熟悉GBDT、LR、SVM 等机器学习相关算法
+
+6.有海量数据处理经验，熟悉Hadoop、Spark等大数据生态技术
+
+*. 具有无人车、无人机等机器人决策规划工作经验者优先
+*. 熟悉物体（人体、人脸、通用目标）检测、跟踪与识别的基本算法
+*. 具有良好的沟通能力和团队合作精神
+
+5、符合以下任一条件会有加分：
+* 参加过KDD、kaggle、天池等算法竞赛并取得较好成绩
+* 有数学建模经验，熟悉最优化理论
+* 有强化学习的相关经验
