@@ -1,7 +1,8 @@
+Day to day reflections as I work my way through the curriculum.
+
 Sat 03/31/2018:
 Restart my study plan, plan to do some great job in this field, and record every learn in this file
 
-Day to day reflections as I work my way through the curriculum.
 Wed 11/15/2017:
     understand multi-layer neural network
 
@@ -14,7 +15,6 @@ Tue 11/07/2017:
 Fri 11/03/2017:
     monitor algorithms
     Review ICA, PCA...
-
 
 Tue 10/31/2017: 
     How to ask good question.
