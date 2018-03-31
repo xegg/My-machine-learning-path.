@@ -1,6 +1,0 @@
-gnuplot> set terminal aqua enhanced title "Figure 1" size 560 420  font "*,6" dashlength 1
-set terminal or set term is gnuplot command. You just need to run gnuplot from
-command line to get access to the gnuplot shell. However, this didn't work for
-me, neither did the setenv("GNUTERM","qt") in
-/usr/local/share/octave/site/m/startup/octaverc or ~/.octaverc (both do the
-same thing).
