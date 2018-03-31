@@ -61,18 +61,31 @@
 News:
 Big company news
 New research
+New ideas and explaintation
 Activity
 Job 
 
 * AI weekly
-* Datascience weekly
+* Machine learning weekly
 * Some machine learning web site
+    * Facebook, twitter, quora, reddit
+    * Google news, 量子位， 机器之心等
+
 * 专业的技术论文
 
-Commutive:
+Study Group:
 QQ
 Tieba
-Quora and so on
+
+Facebook
+google plus
+stackoverflow
+quora
+Slack
+
+Kaggle
+OpenAI
+
 
 Job:
 * Learn where to search job in english and chinese version
@@ -90,9 +103,8 @@ source:
 贴吧， qq等
 学习海外活动创办经验， 自己创办活动.
 内部渠道，私人的群等
-English Version:
-Twitter, Facebook, Google group,
-Meetup and so on
+
+Twitter, Facebook, Google group, Meetup and so on
 
 
 Requrement:
@@ -124,3 +136,16 @@ Requrement:
 * 参加过KDD、kaggle、天池等算法竞赛并取得较好成绩
 * 有数学建模经验，熟悉最优化理论
 * 有强化学习的相关经验
+
+以大公司的要求锻炼自己的能力，
+寻找好的小公司，有可能成为下一个巨头的公司，
+关注创业公司，
+参加线下聚会
+到中关村的创业大街去参观了解
+多认识一点相关人士
+多了解一些创业公司， 国内的相关咨询
+
+那么在家里的过程中， 第一个月完成fast.ai的课程， 剩下的两个月不断的提高自己.
+
+
+
