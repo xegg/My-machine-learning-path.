@@ -1,0 +1,32 @@
+What is the next likely breakthrough in Deep Learning?
+
+Tapa Ghosh
+Tapa Ghosh, Founder and CEO at Vathys
+Answered Dec 24, 2016
+In my opinion, the next breakthroughs will come from one of these areas:
+
+Generative Adversarial Networks We’ve just started to scratch the surface of what’s possible with GANs and even though we don’t yet have a solid method of training them (they’re very finicky), we are already achieving great results, see for example, StackGAN and stacked GANs. However, PPGNs (“plug and play generative models”) are also showing promise and it is likely that the finicky Nash Equilibrium might not be necessary to achieve solid generative capabilities.
+Unsupervised Learning As Yann LeCun’s now famous cake metaphor states, unsupervised learning is where the bulk of the learning is yet we still haven’t been able to crack this extremely important aspect of AI. Sure, we have weak examples like autoencoders and VAEs, but GANs are an example of an improvement in this area and expect research in unsupervised learning to be one of the biggest providers of breakthroughs.
+Smarter AutoML The recent paper “Neural Architecture Search Through Reinforcement Learning” shows the power of using DRL for network construction as we’ve done internally and in my opinion, this is just the beginning, using DRL for learning rate schedules (has already been done publicly and independently I believe, if not, free research ;) ) is another example and I expect more improvements to come in this area.
+Using less data for deep learning (very similar to one-shot learning) Deep learning currently consumes data like an addict, the answer to “how much data do we need?” is always “MORE”. This implies that deep learning is at least partially relying upon underlying statistical correlations rather than actual high level semantics. From a practical sense, less data will enable more practical solutions that can help people. Thus, expect improvements in this area to have huge impact. Current few/one-shot attempts utilize an impractical memory store, and future improvement should focus on removing these limitations. Early glimpses of possibilities in this regard include bayesian ConvNets and monte carlo dropout.
+Better training methods. Although this is by no means a new subfield of research in deep learning, ADAM, AdaDelta, AdaGrad, Nadam, (this is a good link: An overview of gradient descent optimization algorithm) have all been published before, but expect more similar optimizers and also expect new training methods that replace/are orthogonal to backprop (!) such as equilibrium propagation, cross-propagation (proposed at NIPS by Sutton). And on the note of optimizers, we still don’t have a “foolproof” optimizer, we try SGD+Nesterov and Adam, etc but often times Adam doesn’t get the “second drop” that SGD does when you anneal the learning rate. I’m also going to toss in Deep Energy Based Models here as well although it could be its own category.
+Recurrent Networks Recurrent networks continue to be the “superdeep banes” of deep learning and cause all sorts of trouble. Lots of interesting research in this area such as professor forcing, generative adversarial training (this might be something internal, but I thought this has been independently reproduced), unitary networks, etc. and more should follow to make recurrent networks tractable and less finicky.
+Hope this helps, but keep in mind that predicting the future in tech is in itself very difficult, let alone such an incredibly fast moving field like deep learning.
+
+
+Chomba Bupe
+Chomba Bupe, develops machine learning algorithms
+Answered Nov 5, 2016 · Upvoted by Nikhil Badugu
+Reasoning and one-shot learning:
+
+And there is already work showing promising findings.
+
+Google DeepMind researchers built a deep-learning system capable of learning from very little data.
+One-shot Learning with Memory-Augmented Neural Networks
+Differentiable neural computers | DeepMind
+Though there is still much to be done in one-shot learning in deep learning (DL), DeepMind has atleast shown the way. The problem is that in machines there is no real understanding of visual features found in natural scenes, humans on the other hand understand certain things and generalize from there, that is why we can learn with very little training examples.
+
+But this work shows how atleast DL can consume less data in order to perform very well. But true one-shot learning is yet to be solved in DL.
+
+Then reasoning is another interesting thing and this is related to augmentation of memory with DL.
+
