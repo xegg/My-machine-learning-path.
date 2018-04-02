@@ -1,5 +1,8 @@
 Day to day reflections as I work my way through the curriculum.
 
+Mon 04/02/2018:
+Watch fastai part1 lesson 4 video and read through pytorch 50 minutes tutorial.
+
 Sat 03/31/2018:
 Restart my study plan, plan to do some great job in this field, and record every learn in this file
 
